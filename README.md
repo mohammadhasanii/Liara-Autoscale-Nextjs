@@ -8,7 +8,7 @@
 
 ## Alert ! This package is only front end and needs back end
 
-Send an email to receive the source code of the exclusive backend service
+Send an email to receive the source code of the exclusive backend service . Written by Golang & Node
 
 Email : m789219@gmail.com
 ------------------------------------------------------------------------
