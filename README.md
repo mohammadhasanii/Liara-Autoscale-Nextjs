@@ -43,7 +43,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Liara (https://liara.ir)
+## Deploy on [Liara](https://liara.ir)
 
 You can deploy your own cloud containers in Liara.ir cloud infrastructure
 
