@@ -1,4 +1,3 @@
-This package is only front end and needs back end
 
 
 ## Liara-Autoscale-Nextjs
@@ -7,7 +6,9 @@ This package is only front end and needs back end
 
 ![Logo](https://raw.githubusercontent.com/mohammadmahdihasani/Liara-Autoscale-Nextjs/master/public/demo-2.png)
 
+## This package is only front end and needs back end
 
+This service is capable of real-time monitoring of applications
 First, run the development server:
 
 ```bash
